@@ -11,7 +11,7 @@ createServer({
   seeds(server) {
     server.db.loadData({
       //<nome-da-tabela(models)>
-      transaction: [
+      transactions: [
         {
           id: 1,
           title: 'Freelance de Website',
@@ -20,7 +20,15 @@ createServer({
           amount: 6000,
           createdAt: new Date('2021-02-12 09:00:00'),
         },
-      ]
+        {
+          id: 2,
+          title: 'Aluguel',
+          type: 'withdraw',
+          category: 'Casa',
+          amount: 1100,
+          createdAt: new Date('2021-02-14 11:00:00'),
+        },
+      ],
     })
   },
 
