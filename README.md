@@ -1,7 +1,7 @@
 <h1 align="center">dtmoney</h1>
 
 <p align="center">
-Um aplicativo web de gerenciamento de finaças pessoal.</p>
+Um aplicativo web de gerenciamento de finanças pessoal.</p>
 
 <p align="center">
   <a href="#tecnologias">Tecnologias</a> • 
