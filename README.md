@@ -41,12 +41,20 @@ Para rodar o projeto você precisa ter o [Git](https://git-scm.com) e o [Node](h
 ```bash
 # Clone o projeto
 $ git clone https://github.com/lucasdiniz10/dtmoney.git
+
+
 # Accesse a pasta
 $ cd dtmoney
+
+
 # Instale as dependências
 $ yarn
+
+
 # Rode o projeto
 $ yarn start
+
+
 # O servidor será iniciado em http://localhost:3000
 ```
 
