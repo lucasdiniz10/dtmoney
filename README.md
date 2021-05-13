@@ -14,7 +14,8 @@ Um aplicativo web de gerenciamento de finaças pessoal.</p>
     <img width="720" style="border-radius: 5px; margin: 3px auto" src="./src/assets/home-screen.png" alt="dashboard">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  
+  <br>
+  <br>
   <kbd>
     <img width="720" style="border-radius: 5px; margin: 3px auto" src="./src/assets/modal-screen.png" alt="modal">
   </kbd>
