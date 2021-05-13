@@ -11,17 +11,17 @@ Um aplicativo web de gerenciamento de finaças pessoal.</p>
 </p>
 <br>
 
-<!-- <p align="center">
+<p align="center">
   <kbd>
-    <img width="720" style="border-radius: 5px; margin: 3px auto" src="" alt="dashboard">
+    <img width="720" style="border-radius: 5px; margin: 3px auto" src="https://imgur.com/t1AqQro" alt="dashboard">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   
   <kbd>
-    <img width="720" style="border-radius: 5px; margin: 3px auto" src="" alt="modal">
+    <img width="720" style="border-radius: 5px; margin: 3px auto" src="https://imgur.com/Uuhzqrf" alt="modal">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
-</p> -->
+</p>
 
 # Tecnologias
 
