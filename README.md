@@ -1,7 +1,7 @@
 <h1 align="center">dtmoney</h1>
 
 <p align="center">
-Um aplicativo web de gerenciamento de finanças pessoal.</p>
+Um aplicativo web de gerenciamento de finanças pessoais.</p>
 
 <p align="center">
   <a href="#tecnologias">Tecnologias</a> • 
@@ -26,7 +26,7 @@ Um aplicativo web de gerenciamento de finanças pessoal.</p>
 
 * [React](https://pt-br.reactjs.org/)
 * [TypeScript](https://www.typescriptlang.org/)
-* [Styled Componensts](https://styled-components.com/)
+* [Styled Components](https://styled-components.com/)
 * [Axios](https://github.com/axios/axios)
 * [MirageJS](https://miragejs.com/)
 * [Polished](https://polished.js.org/)
