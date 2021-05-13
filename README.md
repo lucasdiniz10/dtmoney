@@ -3,8 +3,6 @@
 <p align="center">
 Um aplicativo web de gerenciamento de finaças pessoal.</p>
 
-<p align="center">Em construção :construction:</p>
-
 <p align="center">
   <a href="#tecnologias">Tecnologias</a> • 
   <a href="#license">License</a>
@@ -13,24 +11,24 @@ Um aplicativo web de gerenciamento de finaças pessoal.</p>
 
 <p align="center">
   <kbd>
-    <img width="720" style="border-radius: 5px; margin: 3px auto" src="https://imgur.com/t1AqQro" alt="dashboard">
+    <img width="720" style="border-radius: 5px; margin: 3px auto" src="./src/assets/home-screen.png" alt="dashboard">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   
   <kbd>
-    <img width="720" style="border-radius: 5px; margin: 3px auto" src="https://imgur.com/Uuhzqrf" alt="modal">
+    <img width="720" style="border-radius: 5px; margin: 3px auto" src="./src/assets/modal-screen.png" alt="modal">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 # Tecnologias
 
-- [React](https://pt-br.reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Styled Componensts](https://styled-components.com/)
-- [Axios](https://github.com/axios/axios)
-- [MirageJS](https://miragejs.com/)
-- [Polished](https://polished.js.org/)
+* [React](https://pt-br.reactjs.org/)
+* [TypeScript](https://www.typescriptlang.org/)
+* [Styled Componensts](https://styled-components.com/)
+* [Axios](https://github.com/axios/axios)
+* [MirageJS](https://miragejs.com/)
+* [Polished](https://polished.js.org/)
 
 ## Requisitos
 
