@@ -39,23 +39,23 @@ Para rodar o projeto você precisa ter o [Git](https://git-scm.com) e o [Node](h
 ## Rodando o projeto
 
 ```bash
-# Clone o projeto
+### Clone o projeto
 $ git clone https://github.com/lucasdiniz10/dtmoney.git
 
 
-# Accesse a pasta
+### Accesse a pasta
 $ cd dtmoney
 
 
-# Instale as dependências
+### Instale as dependências
 $ yarn
 
 
-# Rode o projeto
+### Rode o projeto
 $ yarn start
 
 
-# O servidor será iniciado em http://localhost:3000
+### O servidor será iniciado em http://localhost:3000
 ```
 
 # License
@@ -65,4 +65,4 @@ Projeto feito sobre a [MIT License](license).
 [licence]: https://github.com/lucasdiniz10/dtmoney/blob/main/LICENSE
 
 
-Feito com 💙 por <a href="https://github.com/lucasdiniz10" target="_blank">Lucas Diniz.</a>
+Feito com 💙 por <a href="https://github.com/lucasdiniz10" target="_blank">Lucas Diniz</a>.
