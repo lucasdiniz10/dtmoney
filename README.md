@@ -11,7 +11,7 @@ Um aplicativo web de gerenciamento de finaças pessoal.</p>
 </p>
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <kbd>
     <img width="720" style="border-radius: 5px; margin: 3px auto" src="" alt="dashboard">
   </kbd>
@@ -21,7 +21,7 @@ Um aplicativo web de gerenciamento de finaças pessoal.</p>
     <img width="720" style="border-radius: 5px; margin: 3px auto" src="" alt="modal">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+</p> -->
 
 # Tecnologias
 
